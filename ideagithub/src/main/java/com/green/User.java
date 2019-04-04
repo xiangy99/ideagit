@@ -1,5 +1,8 @@
 package com.green;
 
-public class user {
+/**
+ * @author 向杨
+ */
+public class User {
     private String name;
 }
